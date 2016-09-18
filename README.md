@@ -2,9 +2,20 @@
 
 Panggi Libersa Jasri Akadol (23515044)
 
+* Screenshot:
+
 ![Horizon Chart Screenshot](https://github.com/panggi/horizon-chart/raw/master/images/scrshot.png)
 
-Data Sources: [ [AAPL](http://chart.finance.yahoo.com/table.csv?s=AAPL&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
+* How to use:
+  * clone the project 
+  
+    `$ git clone git@github.com:panggi/horizon-chart.git`
+
+  * open `index.html`
+  
+    `$ open horizon-chart/index.html`
+
+* Data Sources: [ [AAPL](http://chart.finance.yahoo.com/table.csv?s=AAPL&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
     [GOOG](http://chart.finance.yahoo.com/table.csv?s=GOOG&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
     [MSFT](http://chart.finance.yahoo.com/table.csv?s=MSFT&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
     [FB](http://chart.finance.yahoo.com/table.csv?s=FB&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
@@ -14,6 +25,4 @@ Data Sources: [ [AAPL](http://chart.finance.yahoo.com/table.csv?s=AAPL&a=0&b=1&c
     [NVDA](http://chart.finance.yahoo.com/table.csv?s=NVDA&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
     [TLSA](http://chart.finance.yahoo.com/table.csv?s=TSLA&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv) ]
 
-Credit:
-* [D3.js](https://d3js.org/)
-* [Cubism.js](http://square.github.io/cubism/)
+* Credits: [D3.js](https://d3js.org/) and [Cubism.js](http://square.github.io/cubism/)
