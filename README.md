@@ -2,6 +2,8 @@
 
 Panggi Libersa Jasri Akadol (23515044)
 
+![Horizon Chart Screenshot](https://github.com/panggi/horizon-chart/raw/master/images/scrshot.png)
+
 Data Sources: [ [AAPL](http://chart.finance.yahoo.com/table.csv?s=AAPL&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
     [GOOG](http://chart.finance.yahoo.com/table.csv?s=GOOG&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
     [MSFT](http://chart.finance.yahoo.com/table.csv?s=MSFT&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
