@@ -23,6 +23,6 @@ Panggi Libersa Jasri Akadol (23515044)
     [ADBE](http://chart.finance.yahoo.com/table.csv?s=ADBE&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
     [INTC](http://chart.finance.yahoo.com/table.csv?s=INTC&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
     [NVDA](http://chart.finance.yahoo.com/table.csv?s=NVDA&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv),
-    [TLSA](http://chart.finance.yahoo.com/table.csv?s=TSLA&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv) ]
+    [TSLA](http://chart.finance.yahoo.com/table.csv?s=TSLA&a=0&b=1&c=2014&d=8&e=18&f=2016&g=d&ignore=.csv) ]
 
 * Credits: [D3.js](https://d3js.org/) and [Cubism.js](http://square.github.io/cubism/)
